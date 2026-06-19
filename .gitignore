@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+uploads/
+audio.mp3
+audio.wav
+audio2.mp3
+output.wav
